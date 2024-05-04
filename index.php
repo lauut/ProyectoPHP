@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Listado de alumnos</title>
+	<title>Listado de alumnos </title>
    
 </head>
 
